@@ -4,7 +4,7 @@
   <img src="design/desktop-design.jpg" alt="Social Profile Section" width="50%">
 </p>
 
-🔗 **Live Demo:** ([View the Project](https://chrisbk9674.github.io/social-profile-section/) )
+🔗 **Live Demo:** ([View the Project](https://chrisbk9674.github.io/social-proof-section/) )
 
 This project is a **Social Proof Section** built as part of a **Frontend Mentor coding challenge**. The goal was to replicate a provided design **as accurately as possible** using **HTML and CSS**, ensuring a polished and functional UI.
 
