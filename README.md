@@ -1,4 +1,4 @@
-# 🌟 Social Proof Section – Frontend Mentor Challenge\*\*
+# 🌟 Fully Responsive Social Proof Section \*\*
 
 <p align="center">
   <img src="design/desktop-design.jpg" alt="Social Profile Section" width="50%">
